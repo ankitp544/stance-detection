@@ -1,5 +1,5 @@
-Hoaxbait
-========
+Stance Detection
+================
 
 The Fake News Detection App is a single, end-to-end system consisting of lexical
 as well as similarity features fed through a multi-layer perceptron (MLP) with
